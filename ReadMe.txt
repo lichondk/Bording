@@ -1,0 +1,1 @@
+React starter med command "npm start" efter der er kørt command "npm i"
